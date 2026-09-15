@@ -26,3 +26,4 @@ Executive Visibility: Provides leadership with real-time visibility into high-pe
 Strategic Optimization: Enables sales teams to target high-value customer segments and optimize promotional strategies.
 
 Data-Driven Operations: Streamlines decision-making processes by replacing static manual reporting with automated visual analytics.
+Sreenshot of project=https://github.com/MDSAMEERKHAN23/TECH_SALES_ANALYTICS/blob/main/Screenshot%202026-09-15%20075623.png
